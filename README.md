@@ -165,9 +165,9 @@ target/site/jacoco/index.html
 
 На данный момент покрытие:
 
-- instructions — 98%;
-- branches — 94%;
-- lines — около 99%;
+- instructions — около 96%;
+- branches — около 81%;
+- lines — около 95%;
 - methods — около 97%;
 - classes — 100%.
 
